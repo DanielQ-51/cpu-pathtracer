@@ -24,3 +24,6 @@ With our MIS, we are able to handle more complex lighting with multiple light so
 One other thing is that, as you may have noticed in the above image, there are a lot of interesting shapes in the scene. That's because this path tracer renders based on triangles, and is able to read in .obj files, convert all quads and n-gons to triangles, and render the resulting mesh. Another cool thing is that the colors of triangles are indeed interpolated between their vertices. The stellated tetrahedron in the center of the scene simply has a color assigned to each of its 8 points. Here's a clearer picture:
 
 <img src="demoimages/saintquartz3.png" alt="its a saint quartz from the hit game FGO" width="50%"/>
+
+For any questions, please email or message me on linkedIn. I would be more than glad to answer any and all questions.
+
