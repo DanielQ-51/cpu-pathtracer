@@ -1,6 +1,7 @@
 ﻿# CPU PBR Path Tracer
 ## Written in C++ from scratch by Daniel Qin (qindan@seas.upenn.edu)
 *Development: mid August 2025 – early October 2025*
+<br>
 *Note that this project has been superseded by my CUDA path tracing project (https://github.com/DanielQ-51/cudapathtracer), which is much, much more in depth, with various advanced global illumination algorithms. This project's code also contains a few algorithmic mistakes.*
 
 <img src="demoimages/redbluelighting.png" alt="cool image of some red and blue lights" width="50%"/>
@@ -41,6 +42,7 @@ One other thing is that, as you may have noticed in the above image, there are a
 <img src="demoimages/saintquartz3.png" alt="its a saint quartz from the hit game FGO" width="50%"/>
 
 For any questions, please email or message me on linkedIn. I would be more than glad to answer any and all questions.
+
 
 
 
